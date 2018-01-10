@@ -1,3 +1,2 @@
 # MC302 - Programação Orientada a Objetos
-Projeto em Java para reservas em hoteis
-
+Java project designed for booking hotel rooms
